@@ -1,0 +1,12 @@
+manager
+admin
+test
+shop
+uploads
+models/
+controllers
+config
+favicon
+test1
+sql
+errors
