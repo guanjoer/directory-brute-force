@@ -3,10 +3,14 @@ admin
 test
 shop
 uploads
-models/
+models
 controllers
 config
 favicon
 test1
 sql
 errors
+products
+product-data
+cart
+orders
